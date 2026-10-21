@@ -1,7 +1,3 @@
-/**
- * Rol: Client.
- * Crea cuentas y comandos, y se los entrega al cajero.
- */
 public class Cliente {
     public static void main(String[] args) {
         CuentaBancaria ana = new CuentaBancaria("Ana", 1000);
